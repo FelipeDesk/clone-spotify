@@ -40,6 +40,14 @@
     cursor: pointer;
 }
 
+.mobile ul{
+  display: none;
+}
+
+.mobile ul li a{
+  color: #a7a7a7;
+}
+
 .header__login{
     display: flex;
     align-items: center;
